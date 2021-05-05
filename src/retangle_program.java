@@ -10,6 +10,6 @@ public class retangle_program {
         System.out.println("Enter height");
         height = sc.nextFloat();
         float area = width * height;
-        System.out.println("Diện tích hình chữ nhật là "+ area);
+        System.out.println("Diện tích hình chữ nhật là: "+ area);
     }
 }
